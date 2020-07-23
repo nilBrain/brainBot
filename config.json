@@ -1,0 +1,26 @@
+{
+    "token": "DISCORD BOT TOKEN",
+    "owner": "121212215454454444",
+    "prefix": "!",
+    "channels": {
+        "welcome": {
+            "name": "",
+            "id": "",
+            "message": "$welcomeMessage",
+            "callAtWelcome": "true",
+
+            "icons": {
+                "name": "na",
+                "icon": "🇺🇸",
+                "role": "Team NA",
+                "callBack": ""
+            }
+        }
+    },
+    "teamRoles": [
+        { "AN": { "role": "Agrartechnik Nordeifel", "preFix": "[AN]" } },
+        { "LSMC": { "role": "Ls-Modcompany", "preFix": "[LSMC]" } },
+        { "VD": { "role": "VertexDezign", "preFix": "[VD]" } }
+    ],
+    "blockedWords": "ls-portal, ls-novinky, forbidden mods, modhubus, modhub us, modhub.us, fs19.net"
+}
